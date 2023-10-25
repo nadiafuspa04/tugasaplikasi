@@ -1,7 +1,8 @@
 ## 1.1 Latar Belakang
-Tasty Town Adalah salah satu layanan online yang menyediakan berbagai macam makanan siap saji yang siap anatar kerumah...
+    Tasty Town Adalah salah satu layanan online yang menyediakan berbagai macam makanan siap saji yang siap anatar kerumah...
 
 ## 1.2. Deskripsi Teknologi Informasi
+
     Teknlogi Informasi adalah salah satu sarana yang bisa menyimpan,mengubah,dan mengellola informasi yang didapat
 
 ## 1.3.Branding
@@ -19,11 +20,16 @@ Tasty Town Adalah salah satu layanan online yang menyediakan berbagai macam maka
     Sebagai|Saya ingin|Sehingga|Level Prioritas
     ---|---|---|---
     Customer|memudahkan semua orang yang malas masak dirumah|sehingga customer bisa memesan makanan di tasty town|⭐⭐⭐⭐⭐
-    Customer|membantu orang-orang yang ingin memesan makanan via online|sehingga bisa memudahkannya memesan makanan siap saji|                ⭐⭐⭐⭐⭐
+    Customer|membantu orang-orang yang ingin memesan makanan via online|sehingga bisa memudahkannya memesan makanan siap saji| 
+    ⭐⭐⭐⭐⭐
     Customer|orang-orang bisa mengunjungi 
 
 
 ## 3. Struktur Data
+
 ## 4. Arsitektur Data
-## 5.  Teknologi , Library , dan Framework
+## 5. Teknologi , Library , dan Framework
+    Teknologi  :
+    Library    :       
+    Framework  :
 ## 6. Desain User Eksperience dan User Interface
