@@ -20,16 +20,54 @@
     Sebagai|Saya ingin|Sehingga|Level Prioritas
     ---|---|---|---
     Customer|memudahkan semua orang yang malas masak dirumah|sehingga customer bisa memesan makanan di tasty town|⭐⭐⭐⭐⭐
-    Customer|membantu orang-orang yang ingin memesan makanan via online|sehingga bisa memudahkannya memesan makanan siap saji| 
-    ⭐⭐⭐⭐⭐
+    Customer|membantu orang-orang yang ingin memesan makanan via online|dapatmemudahkannya memesan makanan siap saji|⭐⭐⭐⭐⭐
     Customer|orang-orang bisa mengunjungi 
 
 
 ## 3. Struktur Data
+    ```mermaid
+    erDiagram
+        Program ||--o{MEMESAN MAKANAN : MEMESAN ONLINE
+        PENGGUNA
+            string username
+            string password
+            }
 
-## 4. Arsitektur Data
+            PENGGUNA_LAIN ||--|{   :
+            PENGGUNA_LAIN {
+                string username
+
+                
+            }
+
+            DELIVERY ONLINE {
+                memesan makanan 
+                string username_pengguna
+                int jumlahpesanan
+                }
+                PENGGUNA ||--|{PENGGUNA_LAIN : MEMESAN MAKANAN
+            ```
+            
+
+## 4. Arsitektur Sistem
+    
 ## 5. Teknologi , Library , dan Framework
-    Teknologi  :
+    Teknologi  :Figma-Android Studio
     Library    :       
     Framework  :
 ## 6. Desain User Eksperience dan User Interface
+    https://ibb.co/9ngTfRf
+    https://ibb.co/ZLMgg5W
+    https://ibb.co/syxHZQ2
+    https://ibb.co/3S9rBdD
+    https://ibb.co/HCxzHNY
+## 7. Demontrasi Video
+
+    Link yuotube nya
+    
+## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasi?
+
+    Lik youtube nya di jawaban ini 
+
+    
+## 9. 
