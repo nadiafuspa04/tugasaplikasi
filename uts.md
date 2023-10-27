@@ -1,5 +1,5 @@
 ## 1.1 Latar Belakang
-    Tasty Town Adalah salah satu layanan online yang menyediakan berbagai macam makanan siap saji yang siap antar kerumah..solusi terbaik     untuk temen-tememmn yang males masak 
+    Tasty Town Adalah salah satu layanan online yang menyediakan berbagai macam makanan siap saji yang siap antar kerumah..solusi terbaik untuk temen-temen     yang males masak dirumah bisa langsung aja delivery tasty town di gadjetnya masing-masing
 
 ## 1.2. Deskripsi Teknologi Informasi
 
