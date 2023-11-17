@@ -80,4 +80,6 @@
     Lik youtube nya di detik jawaban ini 
 
     
-## 9. 
+## 9. Jelaskan bagaimana algoritma,struktur data,dan bahasa pemrograman berperan dalam produk teknologi informasimu!
+## 10.Jelaskan bagaimana metode pengembangan perangkat lunak/software Development life Cycle berperan dalam produk teknologi informasimu!
+## 11.Jelaskan bagaimana Database/sistem basis data berperan dalam produk teknologi informasimu!
