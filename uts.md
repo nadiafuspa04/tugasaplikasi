@@ -27,7 +27,7 @@
     Sebagai|Saya ingin|Sehingga|Level Prioritas
     ---|---|---|---
     Customer|memudahkan semua orang yang malas masak dirumah|sehingga customer bisa memesan makanan di tasty town|⭐⭐⭐⭐⭐
-    Customer|membantu orang-orang yang ingin memesan makanan via online dapatmemudahkannya memesan makanan siap saji|⭐⭐⭐⭐⭐
+    Customer|membantu orang-orang yang ingin memesan makanan via online|dapatmemudahkannya memesan makanan siap saji|⭐⭐⭐⭐⭐
     Customer|saya ingin dapat melihat daftar menu yang tersedia di olshop makanan,beserta deskripsi dan harga masing-masing menu|⭐⭐⭐⭐
     Customer|saya ingin dapat memperbarui informasi akun saya, termasuk alamat pengiriman dan detail pembayaran|⭐⭐⭐⭐
     Customer|saya ingin dapat menghubungi layanan pelanggan secara langsung jika mengalami masalah atau memiliki pertanyaan tentang pesanan|⭐⭐⭐
@@ -73,11 +73,33 @@
             
 
 ## 4. Arsitektur Sistem
-    
+https://drive.google.com/file/d/17jXeYnvjQbniCJwws7-luMtLk3-mqQRn/view?usp=sharing
+   
 ## 5. Teknologi , Library , dan Framework
-    Teknologi  :Figma-Android Studio
-    Library    :       
-    Framework  :
+    UI/UX Design  :Figma-Android Studio
+    Web Server    :MySQL
+    Text Editor   :Vs Code
+    Data Base     :MySQL
+    UI/UX Design : Canva
+-Pengertian UI (User Interface) adalah tampilan visual sebuah produk yang menghubungkan sistem dengan pengguna. Sistem ini bisa berupa website, aplikasi, atau yang lainnya. Tampilannya meliputi bentuk, warna, dan tulisan yang dibuat semenarik mungkin.
+
+-Peran adalah sebuah platform desain grafis online yang dapat digunakan oleh siapa saja untuk membuat desain grafis yang menarik dan berkualitas. Canva menyediakan berbagai fitur, template, font dan efek visual yang memudahkan penggunanya berkreasi.
+
+Web Server : Apache
+
+-Pengertian Web Server adalah perangkat lunak atau perangkat keras yang memberikan layanan data kepada pengguna internet. Web server berfungsi untuk menerima permintaan HTTP atau HTTPS dari web browser. Web browser kemudian mengirimkan respon berupa halaman web yang diminta oleh pengguna. Terhubung dengan internet dan bertukar informasi berupa data atau file.
+
+-Peran Apache bertugas sebagai penghubung antara user (browser) dan server. Apache dikembangkan supaya dapat menjadi sebuah perangkat lunak web server open source yang dapat dikembangkan dan dikelola oleh modern sitem operasi seperti Unix dan Windows.
+
+Text Editor : VS Code -Pengertian Text editor adalah suatu software yang memungkinkan seseorang untuk membuka, melihat, dan mengedit file plain text atau teks biasa.
+
+-Peran VS Code mendukung pengeditan kode dan berbagai bahasa pemrograman dan kerangka kerja.
+
+Database : MySQL
+
+-Pengertian Database adalah kumpulan data yang disimpan dengan sistem terntentu dan saling berhubungan sehingga bisa dikelola dengan mudah.
+
+-Peran MySQL adalah sistem manajemen database relasional (RDBMS) open source berbasis SQL yang bekerja dengan mode client server.
 ## 6. Desain User Eksperience dan User Interface
     https://ibb.co/ZLMgg5W
     https://ibb.co/9ngTfRf
@@ -89,27 +111,41 @@
     Link yuotube nya
     
 ## 8. Bagaimana mesin komputasi dan sistem operasi berperan dalam produk teknologi informasi?
+   Tentu saja mesin komputasi dan sistem operasi berperan penting dalam produk teknologi informasi.
 
-    Lik youtube nya di detik jawaban ini 
+Mesin Komputasi: Jadi, mesin komputasi adalah perangkat keras yang menjadi dasar bagi produk teknologi informasi. Komponen seperti CPU, RAM, penyimpanan, dan perangkat keras lainnya memungkinkan perangkat tersebut untuk menjalankan perangkat lunak (software) yang merupakan inti dari produk teknologi informasi. Kemampuan dan spesifikasi mesin komputasi akan memengaruhi kinerja dan kemampuan produk tersebut.
 
+Sistem Operasi: Sistem operasi adalah perangkat lunak yang mengelola sumber daya perangkat keras, mengatur eksekusi program, dan menyediakan antarmuka antara pengguna dan perangkat keras. Sistem operasi memastikan bahwa aplikasi berjalan dengan lancar, mengatur tugas-tugas, dan menyediakan akses ke perangkat keras seperti layar, keyboard, dan jaringan. Sistem operasi juga mengelola keamanan, manajemen file, dan sejumlah fitur lainnya.
+
+Sistem operasi memungkinkan aplikasi untuk berjalan dan berinteraksi dengan mesin komputasi.
+
+Jadi, mesin komputasi dan sistem operasi adalah fondasi yang sangat penting dalam produk teknologi informasi, memungkinkan pengembangan, instalasi, dan penggunaan berbagai aplikasi dan layanan.
     
 ## 9. Jelaskan bagaimana algoritma,struktur data,dan bahasa pemrograman berperan dalam produk teknologi informasimu!
-Algoritma:
+**Algoritma:**
 
 Penanganan Pesanan: Algoritma dapat digunakan untuk mengelola pesanan makanan, dari pemesanan oleh pelanggan hingga pemrosesan di dapur. Algoritma ini harus efisien, meminimalkan waktu antara pemesanan dan pengantaran, dan memastikan bahwa pesanan diproses dengan benar.
 Rekomendasi Makanan: Algoritma dapat digunakan untuk memberikan rekomendasi makanan kepada pelanggan berdasarkan preferensi sebelumnya atau tren populer. Ini dapat meningkatkan pengalaman pengguna dan meningkatkan penjualan.
-Struktur Data:
+
+**Struktur Data:**
 
 Manajemen Inventori: Struktur data dapat digunakan untuk mengelola inventori bahan makanan. Informasi tentang stok, tanggal kedaluwarsa, dan perubahan harga dapat disimpan dalam struktur data seperti basis data, memungkinkan pemantauan inventori yang efisien.
 Profil Pelanggan: Data pelanggan, seperti riwayat pesanan, preferensi makanan, dan informasi kontak, dapat disimpan dalam struktur data untuk personalisasi layanan dan meningkatkan retensi pelanggan.
-Bahasa Pemrograman:
 
-Front-end Development: Pemilihan bahasa pemrograman seperti HTML, CSS, dan JavaScript dapat digunakan untuk mengembangkan antarmuka pengguna yang menarik dan responsif pada aplikasi web atau aplikasi seluler untuk pemesanan makanan.
-Back-end Development: Bahasa pemrograman seperti Python, Java, atau Ruby dapat digunakan untuk mengelola logika bisnis, seperti pemrosesan pesanan, manajemen inventori, dan interaksi dengan database.
-Database Management: Bahasa SQL digunakan untuk mengelola dan mengakses data dalam basis data, sementara NoSQL dapat menjadi pilihan untuk skenario di mana fleksibilitas struktur data diperlukan.
-Penggunaan algoritma, struktur data, dan bahasa pemrograman yang tepat dapat meningkatkan kinerja dan kehandalan produk teknologi informasi terkait produk makanan. Pemilihan teknologi yang sesuai akan memastikan bahwa sistem dapat beradaptasi dengan skala bisnis, menjaga keamanan data pelanggan, dan memberikan pengalaman pengguna yang optimal.
-
+**Bahasa Pemrograman:**
+        Definisi: Bahasa pemrograman adalah kumpulan aturan dan sintaksis yang digunakan untuk menulis program komputer.
+        Peran: Bahasa pemrograman memungkinkan programmer untuk menyusun algoritma dan menggunakan struktur data dalam bentuk kode yang dapat dijalankan oleh komputer. Pemilihan bahasa          pemrograman dapat memengaruhi tingkat abstraksi, efisiensi, dan kemudahan pemeliharaan suatu produk.
 ## 10.Jelaskan bagaimana metode pengembangan perangkat lunak/software Development life Cycle berperan dalam produk teknologi informasimu!
+Metode pengembangan perangkat lunak, atau yang dikenal dengan Software Development Life Cycle (SDLC), adalah pendekatan atau proses sistematis yang digunakan untuk merancang, mengembangkan, menguji, dan memelihara perangkat lunak. SDLC berperan penting dalam pengembangan produk teknologi informasi dengan menyediakan kerangka kerja yang terstruktur untuk memastikan bahwa proyek perangkat lunak dapat dilakukan secara efisien dan efektif. Tentunya berperan dalam :
+
+1.perencanaan dan pengorganisasian
+
+2.menganalisis kebutuhan
+
+3.desain sistem
+
+4.pengembangan dan pengujian
+
 ## 11.Jelaskan bagaimana Database/sistem basis data berperan dalam produk teknologi informasimu!
  Berikut adalah beberapa cara bagaimana database berkontribusi dalam operasional dan pengelolaan toko online makanan:
 
