@@ -16,6 +16,11 @@
     Target User  :Dibuka untuk semua kalangan
                             - cocok untuk user yang bingung memilih makanan
                             - sangat memudahkan bagi orang-orang yang malas masak dirumah
+    User experience theme:
+
+        Praktis
+        Berkualitas
+        Terpercaya
 ## 2. User Story
 
 
