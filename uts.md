@@ -28,23 +28,23 @@
     ---|---|---|---
     Customer|memudahkan semua orang yang malas masak dirumah|sehingga customer bisa memesan makanan di tasty town|⭐⭐⭐⭐⭐
     Customer|membantu orang-orang yang ingin memesan makanan via online|dapatmemudahkannya memesan makanan siap saji|⭐⭐⭐⭐⭐
-    Customer|saya ingin dapat melihat daftar menu yang tersedia di olshop makanan,beserta deskripsi dan harga masing-masing menu|⭐⭐⭐⭐
-    Customer|saya ingin dapat memperbarui informasi akun saya, termasuk alamat pengiriman dan detail pembayaran|⭐⭐⭐⭐
-    Customer|saya ingin dapat menghubungi layanan pelanggan secara langsung jika mengalami masalah atau memiliki pertanyaan tentang pesanan|⭐⭐⭐
-    Customer|saya ingin dapat menambahkan menu-menu ke dalam keranjang belanja,sehingga saya dapat memesan beberapa hidangan sekaligus|⭐⭐⭐⭐
-    Customer|saya ingin dapat melakukan pembayaran secara online melalui metode yang aman,seperti debit atau Qris|⭐⭐⭐
-    Customer|saya ingin bisa menyimpan beberapa metode pembayaran yang berbeda untuk fleksibilitas saat membayar|⭐⭐⭐
-    Customer|saya ingin saya ingin mendapatkan konfirmasi pembayaran dan nomor pesanan setelah selesai melakukan transaksi|⭐⭐⭐⭐
-    Customer|saya ingin saya menerima notifikasi tentang status pesanan saya ,seperti konfirmasi pesanan,pemrosesan,pengiriman,dan pengiriman selesai|⭐⭐⭐
-    Customer|saya ingin mendapatkan notifikasi ketika pesanan saya sedang diproses atau dalam perjalanan untuk pengiriman|⭐⭐⭐⭐
-    Customer|saya ingin mendapatkan poin atau diskon sebagai bentuk loyalitas setiap kali melakukan pemesanan|⭐⭐⭐⭐⭐
-    Customer|saya ingin dapat mengakses menu makanan dalam bahasa yang saya pilih untuk kenyamanan saat melakukan pemesanan|⭐⭐⭐
-    Customer|saya ingin dapat melacak pengiriman pesanan saya secara real-time,untuk mengetahui perkiraan waktu tiba|⭐⭐⭐
-    Customer|saya ingin dapat melihat pesanan-pesanan yang masuk,dengan detail tentang menu yang dipesan,jumlah,dan informasi pelanggan|⭐⭐⭐⭐⭐
-    Customer|saya ingin dapat melihat riwayat pemesanan saya untuk melacak transaksi sebelumnya|⭐⭐⭐⭐
-    Customer|saya ingin memberikan ulasan dan feedback tenntang pengalaman saya menggunakan olshop makanan ini,sehingga toko dapat memberbaiki kualitas pelayanan|⭐⭐⭐⭐⭐
-    Customer|saya ingin mendapatkan diskon khusus sebagai pelanggan yang sering menggunakan olshop makanan ini|⭐⭐⭐
-    Customer| saya ingin dapat menyimpan pesanan favorit saya untuk memesan dengan cepat tanpa harus memilih kembali dari menu|⭐⭐⭐⭐
+    Customer|saya ingin dapat melihat daftar menu yang tersedia di olshop makanan|beserta deskripsi dan harga masing-masing menu|⭐⭐⭐⭐
+    Customer|saya ingin dapat memperbarui informasi akun saya|termasuk alamat pengiriman dan detail pembayaran|⭐⭐⭐⭐
+    Customer|saya ingin dapat menghubungi layanan pelanggan secara langsung|jika mengalami masalah atau memiliki pertanyaan tentang pesanan|⭐⭐⭐
+    Customer|saya ingin dapat menambahkan menu-menu ke dalam keranjang belanja|sehingga saya dapat memesan beberapa hidangan sekaligus|⭐⭐⭐⭐
+    Customer|saya ingin dapat melakukan pembayaran secara online melalui metode yang aman|seperti debit atau Qris|⭐⭐⭐
+    Customer|saya ingin bisa menyimpan beberapa metode pembayaran yang berbeda|untuk fleksibilitas saat membayar|⭐⭐⭐
+    Customer|saya ingin saya ingin mendapatkan konfirmasi pembayaran dan nomor pesanan|setelah selesai melakukan transaksi|⭐⭐⭐⭐
+    Customer|saya ingin saya menerima notifikasi tentang status pesanan saya|seperti konfirmasi pesanan,pemrosesan,pengiriman,dan pengiriman selesai|⭐⭐⭐
+    Customer|saya ingin mendapatkan notifikasi ketika pesanan saya sedang diproses|atau dalam perjalanan untuk pengiriman|⭐⭐⭐⭐
+    Customer|saya ingin mendapatkan poin atau diskon sebagai bentuk loyalitas|setiap kali melakukan pemesanan|⭐⭐⭐⭐⭐
+    Customer|saya ingin dapat mengakses menu makanan dalam bahasa yang saya pilih|untuk kenyamanan saat melakukan pemesanan|⭐⭐⭐
+    Customer|saya ingin dapat melacak pengiriman pesanan saya secara real-time|untuk mengetahui perkiraan waktu tiba|⭐⭐⭐
+    Customer|saya ingin dapat melihat pesanan-pesanan yang masuk dengan detail|tentang menu yang dipesan,jumlah,dan informasi pelanggan|⭐⭐⭐⭐⭐
+    Customer|saya ingin dapat melihat riwayat pemesanan saya|untuk melacak transaksi sebelumnya|⭐⭐⭐⭐
+    Customer|saya ingin memberikan ulasan dan feedback tenntang pengalaman saya menggunakan olshop makanan ini|sehingga toko dapat memberbaiki kualitas pelayanan|⭐⭐⭐⭐⭐
+    Customer|saya ingin mendapatkan diskon khusus|sebagai pelanggan yang sering menggunakan olshop makanan ini|⭐⭐⭐
+    Customer| saya ingin dapat menyimpan pesanan favorit saya|untuk memesan dengan cepat tanpa harus memilih kembali dari menu|⭐⭐⭐⭐
     
 
 ## 3. Struktur Data
